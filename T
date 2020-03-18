@@ -1,0 +1,377 @@
+
+Hi Sir  ,
+
+ 
+
+Please find below , an overview of all the projects built till today along with the technology stack .
+
+ 
+
+Project 1 - E Way Bill:
+
+E-way Bill is an electronic document which the taxpayers would need to move their goods freely throughout the country.
+
+It can be easily generated on the e-way Bill Portal.
+
+A Registered Person who wants to move his goods or services or both worth more than Rs. 50,000 will require an e-way bill now.
+
+ 
+
+Technology Stack:
+
+          1.java 8
+
+          2.PDF utility itext
+
+          3.ASP API integration
+
+          4.Mysql
+
+          5.Spting(MVC,Boot,JPA)                       
+
+ 
+
+ 
+
+Project 2 -GSTR-1 :
+
+gstr-1 is a monthly or quarterly return that should be filed by every registered dealer.
+
+It contains details of all outward supplies i.e sales. The return has a total of 13 sections.
+
+ 
+
+Technology Stack:
+
+    1.java 8
+
+    2.redis integration with spring
+
+                a.redis cache
+
+   3. mogodb
+
+   4.kafka
+
+ 
+
+ 
+
+Project 3-GSTR-3B :
+
+Gstr-3b is a simple summary return that all normal taxpayers must file monthly for the nine-month period of July 2017 to March 2018. On this form, taxpayers summarize and report the total values of purchases and sales, without needing to list invoice details
+
+Technology Stack:
+
+1.java 8
+
+2. mogodb
+
+3.kafka
+
+ 
+
+ 
+
+ 
+
+Project 4- GSTR-2 :
+
+contains details of all the purchases transactions of a registered dealer for a month. It will also include purchases on which reverse charge applies. The GSTR-2 filed by a registered dealer is used by the government to check with the sellers
+
+Technology Stack:
+
+    1.java 8
+
+    2.redis integration with spring
+
+                a.redis cache
+
+                b.redis queue
+
+                c.redis async await
+
+                d.redis database
+
+   3. mogodb
+
+   4.kafka
+
+ 
+
+ 
+
+ 
+
+Project 5 -GSTR-2A and 1 :
+
+gstr-1(supplier data) and gstr 2(purchases data)  reconciliation
+
+Technology Stack:
+
+   1.java 8
+
+    2.redis integration with spring
+
+                a.redis cache
+
+   3. mogodb
+
+ 
+
+ 
+
+Project 6- GSTR-6 :
+
+Gstr-6 form is a monthly return form required to be furnished by an input service distributor at the GST Portal. It contains the details of ITC received by an ISD and also contains all the documents issued for distribution of ITC and the manner of distribution of such credit against all the relevant tax invoices
+
+ 
+
+Technology Stack:
+
+    1.java 8
+
+    2.redis integration with spring
+
+                a.redis cache
+
+   3. mogodb
+
+ 
+
+ 
+
+Project 7-GST ANX-1 & ANX-2 Validation Engine :
+
+gst anx-1 is an annexure to the main return GST RET-1 introduced under the new filing system of simplified returns under GST. This annexure will contain details of all outward supplies, inward supplies liable to reverse charge and import of goods and services
+
+Technology Stack:
+
+1.java 8
+
+2.Spring Boot
+
+3.redis integration with spring boot()
+
+    a.redis cache
+
+    b.redis queue
+
+    c.redis async await
+
+    d.redis database
+
+4.docker
+
+5.kubernetes
+
+6.WS02
+
+7. microservices
+
+ 
+
+Project-8 E Biz web portal :
+
+ 
+
+Technology Stack:
+
+1.java 8
+
+2.Mysql
+
+    a.triggers
+
+    b.procedures
+
+3.multithreading executor framework
+
+4.data structures and algorithms
+
+ 
+
+Project-9 E Biz web portal:
+
+ 
+
+Technology Stack:
+
+1.java 8
+
+2.Mysql
+
+   a.triggers
+
+   b.procedures
+
+3.multithreading executor framework
+
+4.data structures and algorithms
+
+ 
+
+ 
+
+Project-10-GSP onboarding web portal :
+
+Vendor onboarding portal
+
+Technology Stack:
+
+         1.java 8
+
+         2.servlet
+
+         3.jsp
+
+         4.html/css/java script
+
+          5.integration with GSP API
+
+ 
+
+Project-11-Hypervege:
+
+ 
+
+ 
+
+Technology Stack:
+
+         1.java 8
+
+         2.Spring Boot microservices
+
+         3.redis integration with spring boot()
+
+                                    a.redis cache
+
+                                   b.redis queue
+
+         4. mogodb
+
+         5.docker
+
+         6.kubernetes
+
+ 
+
+Project-12- Car Hiring Admin/Vendor Portals:
+
+ 
+
+I have designed and developed a platform to integrate Reliance with multiple vendor having multiple contracts and at the same time also enhancing the functionality in building portal for administrations and vendors so that they can upload their contracts along with billing.
+
+Technology Stack:
+
+       1.java 7
+
+       2. microsoft sql server
+
+ 
+
+ 
+
+Project-13- 360 view: This project is a 360 view of a customer account . It’s a dashboard which includes service activations , create SR , check status , base plan, tariff plans, data usage of both prepaid and postpaid etc .
+
+ 
+
+Technology Stack:
+
+1.AngularJs UI
+
+2.soap web services  (axis2)
+
+3.multithreading executor framework
+
+4.AngularJs async api
+
+5.java 7
+
+6.oracle db
+
+ 
+
+ 
+
+ 
+
+ 
+
+POC PROJECTS:
+
+ 
+
+1.AngularJs with spring
+
+2.nodejs with cordova mobile app
+
+3.spark streaming and spark sql
+
+4.elasticsearch kibana and logstash
+
+5.docker
+
+6.kubernetes
+
+7.spring boot microservices
+
+   a.zuul api gateway
+
+   b.eureka service registry
+
+   c.spring sleuth
+
+   d.spring zipkin
+
+   e.spring boot actuator
+
+   f.spring boot security
+
+   g.spring boot security jwt
+
+   h.spring boot oauth2
+
+   i.spring integration with rabbitmq
+
+   k.spring batch
+
+8.python
+
+9.Spark
+
+10.hadoop ecosystem
+
+ 
+
+ 
+
+Language:
+
+1.java
+
+2.python
+
+3.go
+
+ 
+
+Scripting Language:
+
+java script
+
+NodeJs
+
+AngularJs
+
+Angular 8
+
+ 
+
+Thanks
+
+Venkat
+
+ 
+
