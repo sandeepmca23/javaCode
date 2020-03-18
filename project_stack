@@ -1,0 +1,166 @@
+1.	360 view 
+       1.AngularJs UI
+	   2.soap web services  (axis2)
+	   3.multithreading executor framework
+	   4.AngularJs async api 
+       5.java 7
+       6.oracle db
+  	   
+
+2.	Bill lite e way bill.
+            
+          1.java 8
+          2.PDF utility itext
+          3.ASP API integration
+          4.Mysql
+          5.Spting(MVC,Boot,JPA)  		  
+
+
+3.	E Biz scheduler .
+         1.java 8
+		 2.Mysql
+		    a.triggers
+			b.procedures
+			
+         3.multithreading executor framework
+		 4.data structures and algorithms
+		 5.JDBC
+		 6.data structures and algorithms
+		 7.JDBC batch
+		 8.jdbc cursor
+		 
+		 
+4.	E Biz web portal.
+         1.java 8
+		 2.Mysql
+		    a.triggers
+			b.procedures
+	     3.multithreading executor framework
+		 4.data structures and algorithms
+           
+ 
+5.	Annexure 1 validation engine .  
+         1.java 8
+         2.Spring Boot 
+         3.redis integration with spring boot()
+		    a.redis cache
+			b.redis queue
+			c.redis async await
+			d.redis database
+		 4.docker
+         5.kubernetes
+         6.WS02
+         7. microservices
+		 
+			
+6.	GSP onboarding web portal. 
+         1.java 8
+		 2.servlet
+		 3.jsp
+		 4.html/css/java script
+		 5.integration with GSP API
+
+7.	Hypervege. (Project is on hold)
+         1.java 8
+         2.Spring Boot microservices
+         3.redis integration with spring boot()
+		    a.redis cache
+			b.redis queue
+         4. mogodb
+		 5.docker
+         6.kubernetes
+        
+		 
+
+
+8.	GSTR 6 reconciliation API.
+      1.java 8
+	  2.redis integration with spring
+		    a.redis cache
+			b.redis queue
+			c.redis async await
+			d.redis database
+	 3. mogodb
+	 4.kafka
+	 
+      	 
+			
+
+
+9.	GSTR 2 reconciliation API .
+
+    1.java 8
+	  2.redis integration with spring
+		    a.redis cache
+			b.redis queue
+			c.redis async await
+			d.redis database
+	 3. mogodb
+	 4.kafka
+	 
+
+10.	GSTR 2 complete filing .
+
+      1.java 8
+	  2.redis integration with spring
+		    a.redis cache
+			b.redis queue
+			c.redis async await
+			d.redis database
+	 3. mogodb
+	 4.kafka
+	 
+
+
+POC PROJECTS
++++++++++++++++++++++
+1.AngularJs with spring
+2.nodejs with cordova mobile app
+3.spark streaming and spark sql
+4.elasticsearch kibana and logstash
+5.docker
+6.kubernetes
+7.spring boot microservices
+   a.zuul api gateway
+   b.eureka service registry
+   c.spring sleuth
+   d.spring zipkin
+   e.spring boot actuator
+   f.spring boot security
+   g.spring boot security jwt
+   h.spring boot oauth2
+   i.spring integration with rabbitmq
+   k.spring batch
+8.python 
+9.Spark
+10.hadoop ecosystem
+
+
+language
+++++++++++++++
+1.java
+2.python
+3.go
+
+scripting language
+++++++++++++++++++++++
+java script
+NodeJs
+AngularJs
+Angular 8
+
+
+
+
+
+
+
+
+
+
+
+   
+        
+
+
+
