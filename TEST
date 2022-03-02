@@ -1,0 +1,29 @@
+BULK_ARF_ALL,BULK_CPC_ALL,BULK_SUSPEND_ALL,BULK_RESUME_ALL,BULK_CCC_ALL,BULK_CUI_ALL,BULK_RVMP_ALL
+
+BULK_ARF("BULK_ARF_ALL", "bulkARFFileValidateAndProcessService"), 
+BULK_CUI("BULK_CUI_ALL", "bulkCUIFileValidateAndProcessService"), 
+BULK_SUSPEND("BULK_SUSPEND_ALL", "bulkSuspendFileValidateAndProcessService"),  
+BULK_RESUME("BULK_RESUME_ALL", "bulkResumeFileValidateAndProcessService"), 
+BULK_CCC("BULK_CCC_ALL", "bulkCCCFileValidateAndProcessService"), 
+BULK_RVMP("BULK_RVMP_ALL", "bulkCVMPFileValidateAndProcessService"), 
+BULK_CPC("BULK_CPC_ALL", "bulkCPCFileValidateAndProcessService"),
+BULK_CD("BULK_CD_ALL","bulkCDFileValidateAndProcessService");
+
+
+
+PBSUB
+++++++++++++++++++++++++++++++++++++++++++
+EPB.BAM_BATCH_TYPES_LOOKUP
+EPB.EP_BULK_UPLOAD_FILE
+EPB.EP_SERVICE_FLAT_VIEW
+EPB.MBT_BULK_MTN_DETAIL
+EPB.BAM_BATCH_NBR_MTN_DETAIL
+EPB.BAM_BATCH_NBR_DETAIL
+EPB.BAM_BATCH_PROCESS_TRACKING
+
+
+COMMB2B
++++++++++++++++++++++++++
+
+COMMB2B.COMMERCE_PARAMETERS
+COMMB2B.MBT_LOR_STATUS
